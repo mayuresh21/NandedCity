@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "659046197950",
+    "firebase_url": "https://nandedcity-d23a4.firebaseio.com",
+    "project_id": "nandedcity-d23a4",
+    "storage_bucket": "nandedcity-d23a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659046197950:android:ec51766e420df34a",
+        "android_client_info": {
+          "package_name": "com.md.info.nandedcity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659046197950-4rotujtk1718gu2le9c66qo7q8nnvohp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.md.info.nandedcity",
+            "certificate_hash": "ea1c2d96299dce5d48732b9f44e26bde697a70a8"
+          }
+        },
+        {
+          "client_id": "659046197950-hns17ha2dqpkn2068cq8sc4db96pinnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKjWZ-znVa2tX99kkAHR8YscvXYobytn4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659046197950-hns17ha2dqpkn2068cq8sc4db96pinnq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
